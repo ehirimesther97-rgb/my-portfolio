@@ -1,58 +1,148 @@
-<section id="about">
-    <h2>About Me</h2>
+<!DOCTYPE html>
+<html lang="en">
 
-    <p>
-        I am a web developer who creates modern and professional websites
-        for businesses, brands, and individuals. I help businesses build
-        an online presence, showcase their products and services, and
-        advertise their business to potential customers.
-    </p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <p>
-        My goal is to create websites that look great, work well on
-        mobile phones, and help businesses reach more people online.
-    </p>
-</section>
-<section id="services">
-    <h2>My Services</h2>
+    <title>Esther | Web Developer</title>
 
-    <div class="service">
-        <h3>🌐 Business Websites</h3>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Esther</h1>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#services">Services</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+
+    <section id="home" class="hero">
+
+        <h2>I'm a Web Developer 👩‍💻</h2>
+
         <p>
             I create professional websites that help businesses
-            establish a strong online presence.
+            advertise their products and services online.
         </p>
-    </div>
 
-    <div class="service">
-        <h3>📢 Business Advertising</h3>
-        <p>
-            I create websites that showcase your products and services
-            and help you promote your business online.
-        </p>
-    </div>
+        <button onclick="welcomeMessage()">Contact Me</button>
 
-    <div class="service">
-        <h3>🛍️ Product Showcase</h3>
-        <p>
-            I build attractive pages where businesses can display
-            their products, prices, and important information.
-        </p>
-    </div>
+    </section>
 
-    <div class="service">
-        <h3>📱 Mobile-Friendly Websites</h3>
-        <p>
-            I create websites that work well on phones, tablets,
-            and computers.
-        </p>
-    </div>
 
-    <div class="service">
-        <h3>💼 Portfolio Websites</h3>
+    <section id="about">
+
+        <h2>About Me</h2>
+
         <p>
-            I create personal and professional portfolio websites
-            that help people showcase their work and skills.
+            I am a web developer who creates modern and professional
+            websites for businesses, brands, and individuals.
         </p>
-    </div>
-</section>
+
+        <p>
+            I help businesses build an online presence, showcase their
+            products and services, and advertise their business to
+            potential customers.
+        </p>
+
+    </section>
+
+
+    <section id="services">
+
+        <h2>My Services</h2>
+
+        <div class="service">
+            <h3>🌐 Business Websites</h3>
+            <p>
+                Professional websites that help businesses
+                establish a strong online presence.
+            </p>
+        </div>
+
+        <div class="service">
+            <h3>📢 Business Advertising</h3>
+            <p>
+                Websites that showcase products and services
+                and help businesses promote themselves online.
+            </p>
+        </div>
+
+        <div class="service">
+            <h3>🛍️ Product Showcase</h3>
+            <p>
+                Attractive pages where businesses can display
+                their products and important information.
+            </p>
+        </div>
+
+        <div class="service">
+            <h3>📱 Mobile-Friendly Websites</h3>
+            <p>
+                Websites that work well on phones, tablets,
+                and computers.
+            </p>
+        </div>
+
+        <div class="service">
+            <h3>💼 Portfolio Websites</h3>
+            <p>
+                Professional portfolio websites for people
+                who want to showcase their work.
+            </p>
+        </div>
+
+    </section>
+
+
+    <section id="projects">
+
+        <h2>My Projects</h2>
+
+        <div class="project">
+            <h3>Business Website</h3>
+            <p>A professional website for a small business.</p>
+        </div>
+
+        <div class="project">
+            <h3>Personal Portfolio</h3>
+            <p>A website for showcasing skills and projects.</p>
+        </div>
+
+    </section>
+
+
+    <section id="contact">
+
+        <h2>Contact Me</h2>
+
+        <p>
+            Let's work together and take your business online.
+        </p>
+
+        <p>Email: your@email.com</p>
+
+    </section>
+
+
+    <footer>
+
+        <p>© 2026 Esther | Web Developer</p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
