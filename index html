@@ -1,39 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<script src="script.js"></script>
-<body>
-
-    <h1>Welcome to My Portfolio 👋</h1>
-
-<p>Hello! I'm learning web development.</p>
-
-<button onclick="welcomeMessage()">Click Me</button>
-
-    
-
+<section id="about">
     <h2>About Me</h2>
 
     <p>
-        I create simple websites using HTML, CSS and JavaScript.
+        I am a web developer who creates modern and professional websites
+        for businesses, brands, and individuals. I help businesses build
+        an online presence, showcase their products and services, and
+        advertise their business to potential customers.
     </p>
 
-    <h2>My Skills</h2>
-
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ul>
-
-    <h2>Contact Me</h2>
-
-    <p>Email: your@email.com</p>
-
-</body>
-</html>
+    <p>
+        My goal is to create websites that look great, work well on
+        mobile phones, and help businesses reach more people online.
+    </p>
+</section>
