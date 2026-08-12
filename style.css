@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f5f5;
+    color: #222;
+    text-align: center;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 25px;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+.skills {
+    background: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+button {
+    background: #222;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+}
