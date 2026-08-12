@@ -13,3 +13,46 @@
         mobile phones, and help businesses reach more people online.
     </p>
 </section>
+<section id="services">
+    <h2>My Services</h2>
+
+    <div class="service">
+        <h3>🌐 Business Websites</h3>
+        <p>
+            I create professional websites that help businesses
+            establish a strong online presence.
+        </p>
+    </div>
+
+    <div class="service">
+        <h3>📢 Business Advertising</h3>
+        <p>
+            I create websites that showcase your products and services
+            and help you promote your business online.
+        </p>
+    </div>
+
+    <div class="service">
+        <h3>🛍️ Product Showcase</h3>
+        <p>
+            I build attractive pages where businesses can display
+            their products, prices, and important information.
+        </p>
+    </div>
+
+    <div class="service">
+        <h3>📱 Mobile-Friendly Websites</h3>
+        <p>
+            I create websites that work well on phones, tablets,
+            and computers.
+        </p>
+    </div>
+
+    <div class="service">
+        <h3>💼 Portfolio Websites</h3>
+        <p>
+            I create personal and professional portfolio websites
+            that help people showcase their work and skills.
+        </p>
+    </div>
+</section>
