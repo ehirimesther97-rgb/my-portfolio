@@ -123,15 +123,21 @@
 
     <section id="contact">
 
-        <h2>Contact Me</h2>
+    <h2>Let's Work Together</h2>
 
-        <p>
-            Let's work together and take your business online.
-        </p>
+    <p>
+        Do you need a professional website for your business?
+        Send me a message and let's discuss your project.
+    </p>
 
-        <p>Email: your@email.com</p>
+    <a
+        href="https://wa.me/+2347017485740
+        target="_blank"
+        class="whatsapp-button">
+        Chat With Me on WhatsApp
+    </a>
 
-    </section>
+</section>
 
 
     <footer>
